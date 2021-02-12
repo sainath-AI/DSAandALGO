@@ -20,5 +20,5 @@ public class PrintTheDuplicate {
 // for(int i=0;i<n;i++){
 // for (int j=i+1;J<n;J++){
 //if(arr[i]==arr[j]){
-//    sot(arr[j])
+//    sout(arr[j])
 //        }
