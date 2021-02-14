@@ -1,4 +1,6 @@
-  import java.util.Arrays;
+package DSA450Questions;
+
+import java.util.Arrays;
   import java.util.Scanner;
 
 public class KthSmallest {
