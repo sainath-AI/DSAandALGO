@@ -8,7 +8,6 @@ import java.util.Scanner;
 public class IdentifyPrime {
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);
-
         int temp;
         boolean isprime=true;
         int prime=s.nextInt();
